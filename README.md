@@ -24,7 +24,7 @@ Brwoser Beenden und Start Aufruf/Seite laden:
 2. 0 KB
 
 Rechnet man das mal hoch pro Benutzer:<br>
-Jeder Benutzer ruft die Seite 1 mal pro Tag auf. 1 Monat mit 30 Tag<br>
+1 Monat mit 30 TAG<br>
 ```
 30 TAGE *   1 USER *  1 CALL * 512 KB =        15.360 KB =      15,36 MB
 30 TAGE * 100 USER * 20 CALL * 512 KB =     3.072.000 KB =    3072,00 MB =    3,072 GB
