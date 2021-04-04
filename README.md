@@ -14,7 +14,7 @@ und function init() wird gestartet wenn document ready || onload ist!<br>
   * js file<br>
   * css file<br>
 
-your js and css files [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/c3a4472deb5a717a24573101f3e33891febf7a5f/cached-webpgr-v2.js#L8)
+your js and css files [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/01dfe3578dbe976f7440187a547943b6bfcf2aa4/cached-webpgr-v2.js#L8)
 ```
 requireScript.push({
   name: 'Name',
@@ -28,7 +28,7 @@ Version => String dont use space " "<br>
 Type => String "js" || "css"<br>
 Url = String "http://to/paht/file" || "https://to/paht/file" || "/to/paht/file"<br>
 
-your code [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/0d725825d5944886bf1a41d36c9738df80b9387b/cached-webpgr-v2.js#L101)
+your code [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/01dfe3578dbe976f7440187a547943b6bfcf2aa4/cached-webpgr-v2.js#L101)
 ```
 function init() {
   function your_function(){
