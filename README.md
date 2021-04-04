@@ -26,11 +26,11 @@ Brwoser Beenden und Start Aufruf/Seite laden:
 Rechnet man das mal hoch pro Benutzer:<br>
 1 Monat mit 30 TAG<br>
 ```
-30 TAGE *   1 USER *  1 CALL * 512 KB =        15.360 KB =      15,36 MB
-30 TAGE * 100 USER * 20 CALL * 512 KB =     3.072.000 KB =    3072,00 MB =    3,072 GB
-30 TAGE * 999 USER * 99 CALL * 512 KB = 1.519.119.360 KB = 1519119,36 MB = 1519,119 GB = 1,52 TB
+30 TAGE *   1 USER *  1 CALL(pro USER) * 512 KB =        15.360 KB =      15,36 MB
+30 TAGE * 100 USER * 20 CALL(pro USER) * 512 KB =     3.072.000 KB =    3072,00 MB =    3,072 GB
+30 TAGE * 999 USER * 99 CALL(pro USER) * 512 KB = 1.519.119.360 KB = 1519119,36 MB = 1519,119 GB = 1,52 TB
 ```
-mit 999 USER und 99 CALL in 30 TAGEN<br>
+mit 999 USER und 99 CALLS(pro USER) in 30 TAGEN<br>
 1,52 TB für js und css Datein zu verschwenden, so viel zu Datensparsamkeit!!!<br>
 Jeder BENUTZER mit Trafficlimit wird sich über jeden gesparten byte freuen! Oder?<br>
 Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit zu haben.<br>
