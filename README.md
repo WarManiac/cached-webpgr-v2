@@ -28,7 +28,7 @@ Version => String dont use space " "<br>
 Type => String "js" || "css"<br>
 Url = String "http://to/paht/file" || "https://to/paht/file" || "/to/paht/file"<br>
 
-your code [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/main/cached-webpgr-v2.js#L101)
+your code [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/main/cached-webpgr-v2.js#L107)
 ```
 function init() {
   function your_function(){
