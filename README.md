@@ -5,7 +5,8 @@ base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 * German<br>
 Functions weise.<br>
 Erst prüfen ob alle Daten im localstrong sind und Version stimmt. Sollt etwas Fehlen oder version nicht Stimmen.<br>
-Wird es geladen dann windows<br> wenn geladen wird "location.reload()" ausgeführt.
+Wird es geladen<br>
+wenn geladen sind "location.reload()" ausgeführt.
 Sind alle Daten OK hinzufügen<br>
 und function init() wird gestartet wenn document ready || onload ist!<br>
 
