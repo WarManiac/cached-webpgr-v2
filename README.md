@@ -39,7 +39,7 @@ Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)<br><br>
 #### Geht das auch anders?<br>
 JA!<br><br>
 Wenn keine Änderung an js und css daten gemacht werden müssen nach dem bsp. von oben einmalig pro USER 512 KB geladen werden.<br>
-SOLANG der selbe Browser genutzt wird<br>
+SOLANG der selbe Browser genutzt wird!! Ansonst:<br>
 USER 1 Browser A erstmalig 512 KB dann 0 KB<br>
 USER 1 Browser B erstmalig 512 KB dann 0 KB<br>
 USER 2 Browser A erstmalig 512 KB dann 0 KB<br><br>
