@@ -1,6 +1,17 @@
 # cached-webpgr-v2
 base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
+# idee
+interssant für:<br>
+* Server Vorteil:
+  * weniger Trafic
+
+* Benutzer Vorteil:
+  * weniger Trafic
+  * bei wieder holten Aufruf schnell geladen da js und css im localstrong ist
+
+So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!
+
 # Alpha v2
 * German<br>
 Functions weise.<br>
