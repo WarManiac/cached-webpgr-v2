@@ -1,4 +1,4 @@
-# cached-webpgr-alpha-v2
+# cached-webpgr-v2
 base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
 # Alpha v2
