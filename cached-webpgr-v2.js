@@ -1,4 +1,7 @@
 var requireScript = new Array()
+
+//add push
+
 function build(){
   for (var pos in requireScript){
     var tmp = JSON.parse(localStorage.getItem(requireScript[pos].name))
@@ -89,4 +92,6 @@ function runner(){
 
 
 
-function init() {}
+function init() {
+  //your code
+}
