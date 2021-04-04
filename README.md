@@ -3,7 +3,6 @@ base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
 # Idee
 js und css Datein werden selten geändert -> warum immer wieder Downloaden?<br>
-Muss man nicht!<br>
 bsp:<br>
 ```
 | File                                  | Size       |
@@ -35,7 +34,10 @@ mit 999 USER und 99 CALL in 30 TAGEN<br>
 1,52 TB für js und css Datein zu verschwenden, so viel zu Datensparsamkeit!!!<br>
 Jeder BENUTZER mit Trafficlimit wird sich über jeden gesparten byte freuen! Oder?<br>
 Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit haben.<br>
-Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)
+Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)<br><br>
+
+Geht das auch anders?<br>
+JA!<br><br>
 
 interssant für:<br>
 * Server Vorteil:
