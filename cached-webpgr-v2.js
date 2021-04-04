@@ -1,6 +1,6 @@
 /*
  * cached-webpgr-v2.js - simple localStorage based caching of JavaScript and CSS files
- * https://github.com/WarManiac/cached-webpgr-v2/edit/main/cached-webpgr-v2.js
+ * https://github.com/WarManiac/cached-webpgr-v2/blob/main/cached-webpgr-v2.js
  * Author: WarManiac
  * License: MIT
 */
