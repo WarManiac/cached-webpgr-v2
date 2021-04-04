@@ -33,11 +33,16 @@ Jeder Benutzer ruft die Seite 1 mal pro Tag auf. 1 Monat mit 30 Tag<br>
 mit 999 USER und 99 CALL in 30 TAGEN<br>
 1,52 TB für js und css Datein zu verschwenden, so viel zu Datensparsamkeit!!!<br>
 Jeder BENUTZER mit Trafficlimit wird sich über jeden gesparten byte freuen! Oder?<br>
-Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit haben.<br>
+Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit zu haben.<br>
 Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)<br><br>
 
 #### Geht das auch anders?<br>
 JA!<br><br>
+Wenn keine Änderung an js und css daten gemacht werden müssen nach dem bsp. von oben einmalig pro USER 512 KB geladen werden.<br>
+SOLANG der selbe Browser genutzt wird<br>
+USER 1 Browser A erstmalig 512 KB dann 0 KB<br>
+USER 1 Browser B erstmalig 512 KB dann 0 KB<br>
+USER 2 Browser A erstmalig 512 KB dann 0 KB<br><br>
 
 interssant für:<br>
 * Server Vorteil:
