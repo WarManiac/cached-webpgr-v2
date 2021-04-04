@@ -2,13 +2,42 @@
 base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
 # Idee
+js und css Datein werden selten geändert -> warum immer wieder Downloaden?<br>
+Muss man nicht!<br>
+bsp:<br>
+```
+| File                                  | Size       |
+| ------------------------------------- | ---------- |
+| jquery-1.11.1.min.js                  | ca.  94 KB |
+| jquery.mobile-1.4.5.min.js            | ca. 196 KB |
+| jquery.mobile.structure-1.4.5.min.css | ca.  86 KB |
+| jquery.mobile.icons.min.css           | ca. 125 KB |
+| themeroller.min.css                   | ca.  11 KB |
+|                                 Summe | ca. 512 KB |
+```
+js und css Download
+Aufruf/Seite laden:
+1. ca. 512 KB
+2. 0 KB
+
+Brwoser Beenden und Start Aufruf/Seite laden:
+1. 0 KB
+2. 0 KB
+
+Rechnet man das mal hoch pro Benutzer:
+Jeder Benutzer ruft die Seite 1 mal pro Tag auf.<br>
+Monat mit 30 Tag<br>
+```
+30 TAGE * 512 KB                      =    15.360 KB =   15,36 MB
+30 TAGE * 100 USER * 20 CALL * 512 KB = 3.072.000 KB = 3072,00 MB = 3,072 GB
+```
 interssant für:<br>
 * Server Vorteil:
   * weniger Trafic
 
 * Benutzer Vorteil:
   * weniger Trafic
-  * bei wieder holten Aufruf schnell geladen da js und css im localstrong ist
+  * bei wieder holten Aufruf schnell geladen da js und css im LocalStrong ist
 
 So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!
 
