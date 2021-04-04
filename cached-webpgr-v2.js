@@ -95,7 +95,13 @@ function runner(){
   }
   if (ready) location.reload()
 }
-!1===check()?build():setInterval(runner,250),window.jQuery&&$(document).ready(function(){init()});
+if (check()){
+  setInterval(runner,250)
+} else {
+  build()
+  //if (window.jQuery) $(document).ready(function(){init()});
+  window.onload = init;
+}
 
 function init() {
   //your code
