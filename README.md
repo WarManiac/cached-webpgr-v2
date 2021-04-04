@@ -2,11 +2,8 @@
 base on [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
 # v2
-Don't change
-```
-var requireScript = new Array()
-```
-Your js and css files add
+
+Your js and css files add https://github.com/WarManiac/cached-webpgr-v2/blob/c3a4472deb5a717a24573101f3e33891febf7a5f/cached-webpgr-v2.js#L3
 ```
 requireScript.push({
   name: 'Name',
