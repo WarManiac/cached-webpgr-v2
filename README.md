@@ -54,7 +54,7 @@ interssant für:<br>
   * bei wieder holten Aufruf schnell geladen da js und css im LocalStrong ist
 
 So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!<br>
-Also könnt man je nach Browser >= 5MB im LocalStrong Speicheren!<br>
+Also könnt man je nach Browser >= 5 MB (außer bestimmmt Android Version 2,5Mb) im LocalStrong Speicheren!<br>
 
 # Alpha v2
 * German<br>
