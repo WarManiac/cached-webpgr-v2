@@ -14,7 +14,7 @@ und function init() wird gestartet wenn document ready || onload ist!<br>
   * js file<br>
   * css file<br>
 
-your js and css files [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/main/cached-webpgr-v2.js#L8)
+your js and css files [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/main/cached-webpgr-v2.js#L10)
 ```
 requireScript.push({
   name: 'Name',
