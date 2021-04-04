@@ -28,8 +28,9 @@ Rechnet man das mal hoch pro Benutzer:
 Jeder Benutzer ruft die Seite 1 mal pro Tag auf.<br>
 Monat mit 30 Tag<br>
 ```
-30 TAGE *   1 USER    1 CALL * 512 KB =    15.360 KB =   15,36 MB
-30 TAGE * 100 USER * 20 CALL * 512 KB = 3.072.000 KB = 3072,00 MB = 3,072 GB
+30 TAGE *   1 USER *  1 CALL * 512 KB =        15.360 KB =      15,36 MB
+30 TAGE * 100 USER * 20 CALL * 512 KB =     3.072.000 KB =    3072,00 MB =    3,072 GB
+30 TAGE * 999 USER * 99 CALL * 512 KB = 1.519.119.360 KB = 1519119,36 MB = 1519,119 GB = 1,52 TB
 ```
 interssant für:<br>
 * Server Vorteil:
