@@ -1,3 +1,10 @@
+/*
+ * cached-webpgr-v2.js - simple localStorage based caching of JavaScript and CSS files
+ * https://github.com/WarManiac/cached-webpgr-v2/edit/main/cached-webpgr-v2.js
+ * Author: WarManiac
+ * License: MIT
+*/
+
 var requireScript = new Array()
 
 //add push
