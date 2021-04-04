@@ -53,7 +53,8 @@ interssant für:<br>
   * weniger Trafic
   * bei wieder holten Aufruf schnell geladen da js und css im LocalStrong ist
 
-So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!
+So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!<br>
+Also könnt man je nach Browser >= 5MB im LocalStrong Speicheren!<br>
 
 # Alpha v2
 * German<br>
