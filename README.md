@@ -36,7 +36,7 @@ Jeder BENUTZER mit Trafficlimit wird sich über jeden gesparten byte freuen! Ode
 Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit haben.<br>
 Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)<br><br>
 
-Geht das auch anders?<br>
+#### Geht das auch anders?<br>
 JA!<br><br>
 
 interssant für:<br>
