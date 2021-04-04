@@ -25,7 +25,7 @@ Brwoser Beenden und Start Aufruf/Seite laden:
 
 Rechnet man das mal hoch pro Benutzer:<br>
 1 Monat mit 30 TAG<br>
-wenn nach jedem CALL Browser geschlossen wird oder seite verlassen wird!
+wenn nach jedem CALL Browser geschlossen wird oder Seite(Domain) verlassen wird!
 ```
 30 TAGE *   1 USER *  1 CALL(pro USER) * 512 KB =        15.360 KB =      15,36 MB
 30 TAGE * 100 USER * 20 CALL(pro USER) * 512 KB =     3.072.000 KB =    3072,00 MB =    3,072 GB
