@@ -3,7 +3,7 @@ base on [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
 # v2
 
-your js and css files [add](https://github.com/WarManiac/cached-webpgr-v2/blob/c3a4472deb5a717a24573101f3e33891febf7a5f/cached-webpgr-v2.js#L3)
+your js and css files [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/c3a4472deb5a717a24573101f3e33891febf7a5f/cached-webpgr-v2.js#L3)
 ```
 requireScript.push({
   name: 'Name',
@@ -17,7 +17,7 @@ Version => String dont use space " "<br>
 Type => String "js" || "css"<br>
 Url = String "http://to/paht/file" || "https://to/paht/file" || "/to/paht/file"<br>
 
-your code [add](https://github.com/WarManiac/cached-webpgr-v2/blob/0d725825d5944886bf1a41d36c9738df80b9387b/cached-webpgr-v2.js#L94)
+your code [add here](https://github.com/WarManiac/cached-webpgr-v2/blob/0d725825d5944886bf1a41d36c9738df80b9387b/cached-webpgr-v2.js#L94)
 ```
 function init() {
   function your_function(){
