@@ -33,7 +33,7 @@ Monat mit 30 Tag<br>
 30 TAGE * 999 USER * 99 CALL * 512 KB = 1.519.119.360 KB = 1519119,36 MB = 1519,119 GB = 1,52 TB
 ```
 mit 999 USER und 99 CALL in 30 TAGEN<br>
-1,52 TB für js und cs Datein zu verschwenden, so viel zu Datensparsamkeit!!!<br>
+1,52 TB für js und css Datein zu verschwenden, so viel zu Datensparsamkeit!!!<br>
 Jeder BENUTZER mit Trafficlimit wird sich über jeden gesparten byte freuen! Oder?<br>
 Jeder Serverbetreiber die Trafficlimit haben und für jeder weitern TB zahlen um volle Geschwindigkeit haben.<br>
 Siehe z.b. [Hetzner](https://docs.hetzner.com/de/robot/general/traffic/)
