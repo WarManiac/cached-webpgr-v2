@@ -90,8 +90,6 @@ function runner(){
 }
 !1===check()?build():setInterval(runner,250),window.jQuery&&$(document).ready(function(){init()});
 
-
-
 function init() {
   //your code
 }
