@@ -1,7 +1,7 @@
 # cached-webpgr-v2
 base on idess [cached-webpgr.js](https://github.com/webpgr/cached-webpgr.js)
 
-# idee
+# Idee
 interssant für:<br>
 * Server Vorteil:
   * weniger Trafic
