@@ -97,9 +97,9 @@ function runner(){
 }
 if (check()){
   setInterval(runner,250)
+  throw new Error("--JS break--");
 } else {
   build()
-  //if (window.jQuery) $(document).ready(function(){init()});
   window.onload = init;
 }
 
