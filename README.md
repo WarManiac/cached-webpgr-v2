@@ -55,7 +55,7 @@ interssant für:<br>
 
 So lang im Browser(Benutzer) der LocalStrong von der WebSeite nicht gelöscht wird!!!<br>
 Also könnt man je nach Browser >= 5 MB (außer bestimmmt Android Version 2,5MB) im LocalStrong Speicheren!<br>
-zu einem Local/Session/Global-Strong -> [TEST](http://dev-test.nemikor.com/web-storage/support-test/)
+zu einem Local/Session/Global-Strong -> (Extern Link: [TEST](http://dev-test.nemikor.com/web-storage/support-test/) )
 
 # Alpha v2
 * German<br>
